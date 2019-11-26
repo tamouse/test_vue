@@ -1,0 +1,10 @@
+{
+  "name": "test_vue",
+  "version": "0.1.0",
+  "description": "test a vue project",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/test_vue.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "MIT",
+  "private": true
+}
